@@ -1,1 +1,2 @@
- a * b
+def function():
+ return a * b
